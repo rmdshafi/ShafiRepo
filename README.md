@@ -1,2 +1,0 @@
-# ShafiRepo
-Training
